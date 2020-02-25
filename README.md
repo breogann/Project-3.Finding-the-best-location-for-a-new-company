@@ -11,7 +11,7 @@
 
 First, we cleaned the dataset obtained from crunchabse with the list of companies. Then, we added Starbucks locations using the FourSquare API.
 
-# To do:
+#### To do 
 
 - Add more venue filters: vegan places, etc.
 - Calculate minimun distance to rank possible places
