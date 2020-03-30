@@ -8,7 +8,7 @@ Selection of a world-wide location for a gaming company given some criteria. Dat
 
 ##  The problem ❗️ ## 
 <p align="left">
-  <img width="350" height="200" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
+  <img width="400" height="200" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
 
 ### Criteria 📃 ###
 
@@ -23,14 +23,22 @@ Selection of a world-wide location for a gaming company given some criteria. Dat
 First, we cleaned the dataset obtained from __crunchabse__ with the list of companies. Then, we added Starbucks locations using the __FourSquare API__.
 
 ### Data processing 🛠 ###
-
+- Obtention of coordinates through MongoDB
+- Formatting those coordinates
+- Use the formatted data to iterate over it through the API
+- Place the coordinates in a map
 
 #### Used technologies 🔌: ####
 - MongoDB
+- Foursquare API
+- Cartoframes
+- Folium
 
 #### Used libraries 📚: ####
-- 
-
+- GeoPandas
+- Pymongo
+- Geopy
+- Matoplotlib
 
 ##### To do #####
 - Add more venue filters: vegan places, etc.
