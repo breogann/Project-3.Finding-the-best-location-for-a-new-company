@@ -7,8 +7,8 @@
 Selection of a world-wide location for a gaming company given some criteria. Data used was a dataset with companies and FourSquare API to get locations for Starbucks. 
 
 ##  The problem ❗️ ## 
-<p align="center">
-  <img width="500" height="200" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
+<p align="left">
+  <img width="350" height="200" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
 
 ### Criteria 📃 ###
 
