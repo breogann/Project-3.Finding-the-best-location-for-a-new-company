@@ -10,7 +10,7 @@ Selection of a world-wide location for a gaming company given some criteria. Dat
 <p align="left">
   <img width="400" height="200" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
 
-### Criteria 📃 ###
+#### Criteria 📃 ####
 
 - Nearby startups that raised over 1 million.
 - Nearby companies in a similar field (like gaming).
@@ -25,7 +25,7 @@ First, we cleaned the dataset obtained from __crunchabse__ with the list of comp
 ### Data processing 🛠 ###
 - Obtention of coordinates through MongoDB
 - Formatting those coordinates
-- Use the formatted data to iterate over it through the API
+- Use the formatted data to iterate over through the API
 - Place the coordinates in a map
 
 #### Used technologies 🔌: ####
