@@ -8,7 +8,7 @@ Selection of a world-wide location for a gaming company given some criteria. Dat
 
 ##  The problem ❗️ ## 
 <p align="left">
-  <img width="400" height="400" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
+  <img width="550" height="400" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
 
 ## The solution 🟢 ##
 
