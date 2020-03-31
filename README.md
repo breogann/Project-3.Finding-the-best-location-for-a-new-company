@@ -22,17 +22,33 @@ First, we cleaned the dataset obtained from __crunchabse__ with the list of comp
 - Use the formatted data to iterate over through the API
 - Place the coordinates in a map
 
-#### Used technologies 🔌: ####
-- MongoDB
-- Foursquare API
-- Cartoframes
-- Folium
+<table border="0">
+ <tr>
+    <td><b style="font-size:15px">Used technologies 🔌</b></td>
+    <td><b style="font-size:15px">Used libraries 📚</b></td>
+ </tr>
+ <tr>
+    <td>
+    <ul>
+      <li>MongoDB</li>
+      <li>Foursquare API</li>
+      <li>Cartoframes</li>
+      <li>Folium</li>
+</ul>
+</td>
+<td>
+<ul>
+      <li>GeoPandas</li>
+      <li>Pymongo</li>
+      <li>Geopy</li>
+      <li>Matoplotlib</li>
+</ul>
+</td>
+ </tr>
+</table>
 
-#### Used libraries 📚: ####
-- GeoPandas
-- Pymongo
-- Geopy
-- Matoplotlib
+
+
 
 ##### To do #####
 - Add more venue filters: vegan places, etc.
