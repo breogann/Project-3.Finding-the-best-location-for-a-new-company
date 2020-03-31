@@ -8,13 +8,7 @@ Selection of a world-wide location for a gaming company given some criteria. Dat
 
 ##  The problem ❗️ ## 
 <p align="left">
-  <img width="400" height="200" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
-
-#### Criteria 📃 ####
-
-- Nearby startups that raised over 1 million.
-- Nearby companies in a similar field (like gaming).
-- Nearby Starbucks.
+  <img width="400" height="400" src="https://github.com/breogann/Project-3.Finding-the-best-location-for-a-new-company/blob/master/Images/problem.png" alt="problem">
 
 ## The solution 🟢 ##
 
